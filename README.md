@@ -31,7 +31,7 @@ Es un laboratorio enfocado en los fundamentos de PHP como el POST y el uso de HT
  
 1. Clonar el repositorio:
 ```bash
-   git clone https://github.com/gabrielmendoza-nht/Lab1-Introduccion-a-Php.git
+   git clone https://github.com/dylan-pitti/-Introduccion-al-Leguaje-PHP.git
 ```
 2. Colocarlo dentro del directorio de tu servidor local (www si se usa WAMP o LAMP).
 3. Iniciar Apache y PHP y después conectarse al servidor local mediante hhtp://127.1.1.1
