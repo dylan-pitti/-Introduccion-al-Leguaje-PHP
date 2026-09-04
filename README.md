@@ -10,6 +10,7 @@ Es un laboratorio enfocado en los fundamentos de PHP como el POST y el uso de HT
 | Archivo | Descripción |
 |---|---|
 | `edad.php` | Ejercicio para calcular o mostrar la edad a partir de datos ingresados por el usuario. |
+| `aga.css` | Hoja de estilos usada por el ejercicio de edad. |
 | `calculadora.php` | Formulario HTML para ingresar dos números y seleccionar una operación (sumar, restar, multiplicar, redondear). |
 | `pulg.php` / `pulgada.php` | Conversión de unidades (pulgadas a otras medidas). |
 | `calc.php` | Procesa los datos enviados por `calculadora.php` e imprime los resultados. |
