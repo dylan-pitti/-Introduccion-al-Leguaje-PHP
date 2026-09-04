@@ -1,0 +1,73 @@
+/* 1. Reset básico y estilos generales de la página */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #91c1f1;
+  color: #1e293b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+/* 2. Tarjeta contenedora para el formulario */
+form {
+  background-color: #2d817e;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+  max-width: 380px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* 3. Estilos para las cajas de texto (inputs) */
+input[type="text"],
+input[type="number"] {
+  width: 100%;
+  padding: 10px 12px;
+  margin-top: 6px;
+  border: 1px solid #9098a3;
+  border-radius: 6px;
+  font-size: 1rem;
+  background-color: #a7a2b6;
+  color: #0f172a;
+  transition: all 0.2s ease;
+}
+
+input[type="text"]:focus,
+input[type="number"]:focus {
+  outline: none;
+  border-color: #eb25d7;
+  background-color: #ffffff;
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.15);
+}
+
+/* 4. Estilo para el botón de enviar */
+input[type="submit"] {
+  width: 100%;
+  padding: 12px;
+  background-color: #eb25b0;
+  color: #bc8484;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+input[type="submit"]:hover {
+  background-color: #77396d;
+}
+
+input[type="submit"]:active {
+  transform: scale(0.98);
+}
