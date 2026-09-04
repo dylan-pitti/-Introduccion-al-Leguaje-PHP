@@ -20,7 +20,12 @@ Es un laboratorio enfocado en los fundamentos de PHP como el POST y el uso de HT
 | `practica3.php` | Tercer ejercicio  PHP. |
 | `practica4.php` | Cuarto ejercicio PHP. |
 | `practica4.c` | Práctica 4, pero realizada en C. |
-| `pulgesti.css` | Hoja de estilos usada por los ejercicios de conversión de pulgadas. |
+| `pulga.css` | Hoja de estilos usada por los ejercicios de conversión de pulgadas. |
+| `Peri_Area.html` | Página principal para introducir datos de perímetro o área. |
+| `Area_Perimetro.php` | Impresión de la respuesta del perímetro/área. |
+| `ap.css` | Hoja de estilos usada por los ejercicios de área y perímetro. |
+
+
  
 ## Lenguajes Utilizados
  
