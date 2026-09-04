@@ -2,6 +2,7 @@
 
 <head>
     <title>Formulario de entrada del dato</title>
+        <link rel="stylesheet" href="age.css">
 </head>
 
 <body>
