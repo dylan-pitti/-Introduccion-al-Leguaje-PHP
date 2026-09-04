@@ -13,6 +13,7 @@ Es un laboratorio enfocado en los fundamentos de PHP como el POST y el uso de HT
 | `calculadora.php` | Formulario HTML para ingresar dos números y seleccionar una operación (sumar, restar, multiplicar, redondear). |
 | `pulg.php` / `pulgada.php` | Conversión de unidades (pulgadas a otras medidas). |
 | `calc.php` | Procesa los datos enviados por `calculadora.php` e imprime los resultados. |
+| `calcss.css` | Hoja de estilos usada por los ejercicios de calculadora. |
 | `pagina2.php` | Página de ejemplo/complementaria dentro de la práctica. |
 | `practica1.php` | Primer ejercicio  PHP. |
 | `practica2.php` | Segundo ejercicio  PHP. |
